@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Madelyn Repzynski
  */
 
 public class Class1 {
